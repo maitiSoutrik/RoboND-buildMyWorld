@@ -22,7 +22,7 @@ The **buildMyWorld** project part of RoboND Gazebo Basics lesson. The purpose of
     │   │   ├── model.config
     │   │   ├── model.sdf
     ├── script                         # Gazebo World plugin C++ script      
-    │   ├── hello.cpp
+    │   ├── welcome_message.cpp
     ├── world                          # Gazebo main World empty scene
     │   ├── boomLabWorld
     ├── CMakeLists.txt                 # Link libraries 
